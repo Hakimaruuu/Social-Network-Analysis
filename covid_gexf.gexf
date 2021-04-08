@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-05">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="AnotherAznTart" label="AnotherAznTart" />
+      <node id="RDYSPTR" label="RDYSPTR" />
+      <node id="Cr07fans1" label="Cr07fans1" />
+      <node id="RahmanR33500117" label="RahmanR33500117" />
+      <node id="ftnhhshm" label="ftnhhshm" />
+      <node id="VIVAcoid" label="VIVAcoid" />
+      <node id="rosywana" label="rosywana" />
+      <node id="irulree" label="irulree" />
+      <node id="miyomi19" label="miyomi19" />
+      <node id="SivFreak" label="SivFreak" />
+      <node id="DonAlfauzi" label="DonAlfauzi" />
+      <node id="Lleragonzalez" label="Lleragonzalez" />
+      <node id="AiedaAzam" label="AiedaAzam" />
+      <node id="Ketepi_Ketepi" label="Ketepi_Ketepi" />
+      <node id="_adibothman" label="_adibothman" />
+      <node id="FaizRoseli" label="FaizRoseli" />
+      <node id="_adilayusof" label="_adilayusof" />
+      <node id="fazvader" label="fazvader" />
+      <node id="gadih_orkid" label="gadih_orkid" />
+      <node id="langityang7" label="langityang7" />
+      <node id="FadhliRudi" label="FadhliRudi" />
+      <node id="pmrkeningau" label="pmrkeningau" />
+      <node id="HamizahAziz_" label="HamizahAziz_" />
+      <node id="_nraziann" label="_nraziann" />
+      <node id="sitiawe_" label="sitiawe_" />
+      <node id="FFaesyal" label="FFaesyal" />
+      <node id="AZHARFRS" label="AZHARFRS" />
+      <node id="RaydoDeagustama" label="RaydoDeagustama" />
+      <node id="syifa_1104" label="syifa_1104" />
+      <node id="Norsarihan" label="Norsarihan" />
+      <node id="aizadhamzah" label="aizadhamzah" />
+      <node id="Jchris_68" label="Jchris_68" />
+      <node id="izzrosellee" label="izzrosellee" />
+      <node id="syaf_meung" label="syaf_meung" />
+      <node id="hajarrulnisha" label="hajarrulnisha" />
+      <node id="faizmahmod" label="faizmahmod" />
+      <node id="VIVAlife_" label="VIVAlife_" />
+      <node id="AbyJamil" label="AbyJamil" />
+      <node id="Azril_Hosaini" label="Azril_Hosaini" />
+      <node id="rebitdebab" label="rebitdebab" />
+      <node id="iddxyxh" label="iddxyxh" />
+      <node id="fitrahjafri" label="fitrahjafri" />
+      <node id="doso_werdiadi" label="doso_werdiadi" />
+      <node id="kimiimiar" label="kimiimiar" />
+      <node id="PapaQQs" label="PapaQQs" />
+      <node id="ArinaaZam" label="ArinaaZam" />
+      <node id="subr33nvh" label="subr33nvh" />
+      <node id="ainkhairul" label="ainkhairul" />
+      <node id="MellyLiawati" label="MellyLiawati" />
+      <node id="itsmeadlhshrh" label="itsmeadlhshrh" />
+      <node id="purirohermawan" label="purirohermawan" />
+      <node id="munasyifaaziza" label="munasyifaaziza" />
+      <node id="AdiNugroho231tw" label="AdiNugroho231tw" />
+      <node id="nuoraein" label="nuoraein" />
+      <node id="HanyangHabbang" label="HanyangHabbang" />
+      <node id="habibullah_AHA" label="habibullah_AHA" />
+      <node id="Guse43935882" label="Guse43935882" />
+      <node id="haziqProperty" label="haziqProperty" />
+      <node id="ki_engi" label="ki_engi" />
+      <node id="qutershipper" label="qutershipper" />
+      <node id="HakimBahrin" label="HakimBahrin" />
+      <node id="riauaktual" label="riauaktual" />
+      <node id="AmatTTJ" label="AmatTTJ" />
+      <node id="BIner_GBK" label="BIner_GBK" />
+      <node id="marifd95" label="marifd95" />
+      <node id="aiman_amarth" label="aiman_amarth" />
+      <node id="vouzmeyouz7" label="vouzmeyouz7" />
+      <node id="adobubble" label="adobubble" />
+      <node id="eneffeff" label="eneffeff" />
+      <node id="saisyah_nar" label="saisyah_nar" />
+      <node id="mistaaimanvevo" label="mistaaimanvevo" />
+      <node id="tampan_selalu_" label="tampan_selalu_" />
+      <node id="hyungwati" label="hyungwati" />
+      <node id="99star_micchye" label="99star_micchye" />
+      <node id="Fazreensya" label="Fazreensya" />
+      <node id="luqmankamal__" label="luqmankamal__" />
+      <node id="nazihahhh" label="nazihahhh" />
+      <node id="relapahang" label="relapahang" />
+      <node id="_hasrul" label="_hasrul" />
+      <node id="asmaqrazak" label="asmaqrazak" />
+      <node id="dalgigongju" label="dalgigongju" />
+      <node id="AmalTakaza" label="AmalTakaza" />
+      <node id="rahah_ghazali" label="rahah_ghazali" />
+      <node id="ceriachannel_8" label="ceriachannel_8" />
+      <node id="Ahmad_KanekiKen" label="Ahmad_KanekiKen" />
+      <node id="rozali53" label="rozali53" />
+      <node id="nrshyni" label="nrshyni" />
+      <node id="omiikochii" label="omiikochii" />
+      <node id="_Idzham_" label="_Idzham_" />
+      <node id="muhammad__adib" label="muhammad__adib" />
+      <node id="tbgsem" label="tbgsem" />
+      <node id="fery_krisnanto" label="fery_krisnanto" />
+      <node id="aintaj" label="aintaj" />
+      <node id="Super_Abez" label="Super_Abez" />
+      <node id="Mrdodot" label="Mrdodot" />
+      <node id="taufekJr" label="taufekJr" />
+      <node id="ppastelkims" label="ppastelkims" />
+      <node id="MohamadFaridIz2" label="MohamadFaridIz2" />
+      <node id="RECOVERADIO" label="RECOVERADIO" />
+      <node id="hxmozx" label="hxmozx" />
+      <node id="ArfianWan" label="ArfianWan" />
+      <node id="UsmanKhoma" label="UsmanKhoma" />
+      <node id="ajiipurnomo" label="ajiipurnomo" />
+      <node id="AngrySipelebegu" label="AngrySipelebegu" />
+      <node id="DeeBoy5" label="DeeBoy5" />
+      <node id="infoUBSI" label="infoUBSI" />
+      <node id="IlmuanAkhirat" label="IlmuanAkhirat" />
+      <node id="Kampus_UBSI" label="Kampus_UBSI" />
+      <node id="JapenKedah" label="JapenKedah" />
+      <node id="Widiatis279" label="Widiatis279" />
+      <node id="kakekpembina" label="kakekpembina" />
+      <node id="RustamDP" label="RustamDP" />
+      <node id="MyHEALTHKKM" label="MyHEALTHKKM" />
+      <node id="gatawbodo" label="gatawbodo" />
+      <node id="mirazh_me" label="mirazh_me" />
+      <node id="NurulJannahAnu2" label="NurulJannahAnu2" />
+      <node id="dannex21" label="dannex21" />
+      <node id="AmirahAyub" label="AmirahAyub" />
+      <node id="acidween" label="acidween" />
+      <node id="ekjozbuluh" label="ekjozbuluh" />
+      <node id="laga_joseph" label="laga_joseph" />
+      <node id="Iipoenk" label="Iipoenk" />
+      <node id="IzureenAnisa" label="IzureenAnisa" />
+      <node id="Makpin4" label="Makpin4" />
+      <node id="MegaPuspa26" label="MegaPuspa26" />
+      <node id="RazaliHamizan" label="RazaliHamizan" />
+      <node id="SabanaInsan" label="SabanaInsan" />
+      <node id="TugangG" label="TugangG" />
+      <node id="lyra_fara" label="lyra_fara" />
+      <node id="Jasson53544364" label="Jasson53544364" />
+      <node id="AlvianKahfi" label="AlvianKahfi" />
+      <node id="nichauaena" label="nichauaena" />
+      <node id="seemanjo" label="seemanjo" />
+      <node id="wawaggmu" label="wawaggmu" />
+      <node id="awsilence" label="awsilence" />
+      <node id="ghastpiracy" label="ghastpiracy" />
+      <node id="KampusUbsi" label="KampusUbsi" />
+      <node id="syamiraimann" label="syamiraimann" />
+      <node id="Branta_Sena77" label="Branta_Sena77" />
+      <node id="JPZullOthman" label="JPZullOthman" />
+      <node id="syasyaazulaikha" label="syasyaazulaikha" />
+      <node id="AjimanKaro" label="AjimanKaro" />
+      <node id="mangiii" label="mangiii" />
+      <node id="bonobtha" label="bonobtha" />
+      <node id="ain_yusra" label="ain_yusra" />
+      <node id="aunty_Lalaaaaa" label="aunty_Lalaaaaa" />
+      <node id="faiqsapii" label="faiqsapii" />
+      <node id="HKaligondang" label="HKaligondang" />
+      <node id="_abdullahazam" label="_abdullahazam" />
+      <node id="tun_jubei" label="tun_jubei" />
+      <node id="ParamesPolaris" label="ParamesPolaris" />
+      <node id="FerryNLangelo" label="FerryNLangelo" />
+      <node id="yazid_nazri" label="yazid_nazri" />
+      <node id="IDRIS95026563" label="IDRIS95026563" />
+      <node id="kfirdaus97" label="kfirdaus97" />
+      <node id="YB_Akob" label="YB_Akob" />
+      <node id="ginaa_lestari" label="ginaa_lestari" />
+      <node id="pidutDin" label="pidutDin" />
+      <node id="atiqah_azmira" label="atiqah_azmira" />
+      <node id="RosmAzyYati" label="RosmAzyYati" />
+      <node id="zaynalfahmi" label="zaynalfahmi" />
+      <node id="McNoc_Jeli" label="McNoc_Jeli" />
+      <node id="enamcent" label="enamcent" />
+      <node id="Supriya72540457" label="Supriya72540457" />
+      <node id="mimams_" label="mimams_" />
+      <node id="bukatejapolsek2" label="bukatejapolsek2" />
+      <node id="Amighuding" label="Amighuding" />
+      <node id="mas_soll" label="mas_soll" />
+      <node id="nadyakhrnzz" label="nadyakhrnzz" />
+      <node id="Mrx_Lonely" label="Mrx_Lonely" />
+      <node id="astaghosh" label="astaghosh" />
+      <node id="nurulsapiq" label="nurulsapiq" />
+      <node id="KelingMenua8" label="KelingMenua8" />
+      <node id="aril2995" label="aril2995" />
+      <node id="ashikynnn_" label="ashikynnn_" />
+      <node id="thea_effendy" label="thea_effendy" />
+      <node id="kireiharunohana" label="kireiharunohana" />
+      <node id="iamsyeikh" label="iamsyeikh" />
+      <node id="Cahyadi_refa" label="Cahyadi_refa" />
+      <node id="zulfikar_husein" label="zulfikar_husein" />
+      <node id="tomitexas" label="tomitexas" />
+      <node id="diplomatfatui" label="diplomatfatui" />
+      <node id="DhiaDemmy" label="DhiaDemmy" />
+      <node id="EnalNkri" label="EnalNkri" />
+      <node id="gwywoo" label="gwywoo" />
+      <node id="dirmanrdl" label="dirmanrdl" />
+      <node id="djerrymoused39" label="djerrymoused39" />
+      <node id="RMaulanal" label="RMaulanal" />
+      <node id="Malini2020" label="Malini2020" />
+      <node id="HeriSuwondo2" label="HeriSuwondo2" />
+      <node id="AzriGagor" label="AzriGagor" />
+      <node id="_noorayu_" label="_noorayu_" />
+      <node id="amiranatashasss" label="amiranatashasss" />
+      <node id="Wahyuni48070085" label="Wahyuni48070085" />
+      <node id="IWar69" label="IWar69" />
+      <node id="amirah_nafissa" label="amirah_nafissa" />
+      <node id="KudusSatbinmas" label="KudusSatbinmas" />
+      <node id="emille1111" label="emille1111" />
+      <node id="_Fifi1234" label="_Fifi1234" />
+      <node id="kianinara3" label="kianinara3" />
+      <node id="mumyfd" label="mumyfd" />
+      <node id="LeonelPjanic" label="LeonelPjanic" />
+      <node id="JackPenak" label="JackPenak" />
+      <node id="redywanjames" label="redywanjames" />
+      <node id="rieeennnnn" label="rieeennnnn" />
+      <node id="tonky_tonky" label="tonky_tonky" />
+      <node id="akmalhjsaftu" label="akmalhjsaftu" />
+      <node id="jamal_bawean" label="jamal_bawean" />
+      <node id="santuyparuy09" label="santuyparuy09" />
+      <node id="KKMPutrajaya" label="KKMPutrajaya" />
+      <node id="Puthutea" label="Puthutea" />
+      <node id="abu_waras" label="abu_waras" />
+      <node id="djplkemenhub151" label="djplkemenhub151" />
+      <node id="CeritaAnda_" label="CeritaAnda_" />
+      <node id="DGHisham" label="DGHisham" />
+      <node id="Pencerah__" label="Pencerah__" />
+      <node id="theghrack" label="theghrack" />
+      <node id="muhammadiyah" label="muhammadiyah" />
+      <node id="cmdtegnralAMB" label="cmdtegnralAMB" />
+      <node id="_thejakpar" label="_thejakpar" />
+      <node id="Separoh_Kumis" label="Separoh_Kumis" />
+      <node id="DrAdhamBaba" label="DrAdhamBaba" />
+      <node id="katzen_jammer" label="katzen_jammer" />
+      <node id="firdzaradiany" label="firdzaradiany" />
+      <node id="JPenerangan" label="JPenerangan" />
+      <node id="JKJAVMY" label="JKJAVMY" />
+      <node id="KuppWanci" label="KuppWanci" />
+      <node id="jbrullhhhh" label="jbrullhhhh" />
+      <node id="JapenSarawak" label="JapenSarawak" />
+      <node id="kkmm_gov" label="kkmm_gov" />
+      <node id="UCIKINI" label="UCIKINI" />
+      <node id="KakekHalal" label="KakekHalal" />
+      <node id="kompascom" label="kompascom" />
+      <node id="dgipul" label="dgipul" />
+      <node id="hnurwahid" label="hnurwahid" />
+      <node id="medianaFS" label="medianaFS" />
+      <node id="ichaasrm" label="ichaasrm" />
+      <node id="zwolftenaugust" label="zwolftenaugust" />
+      <node id="BatikRiwa" label="BatikRiwa" />
+      <node id="kikysaputrii" label="kikysaputrii" />
+      <node id="fjims" label="fjims" />
+      <node id="FitRadioBandung" label="FitRadioBandung" />
+      <node id="501Awani" label="501Awani" />
+      <node id="dr_koko28" label="dr_koko28" />
+      <node id="tonaytoni" label="tonaytoni" />
+      <node id="Iamrahulkanal" label="Iamrahulkanal" />
+      <node id="KuliahBSIAja" label="KuliahBSIAja" />
+      <node id="hmetromy" label="hmetromy" />
+      <node id="dayatia" label="dayatia" />
+      <node id="Pemudamuslimin" label="Pemudamuslimin" />
+      <node id="Panglima_Minal" label="Panglima_Minal" />
+      <node id="IBCIG" label="IBCIG" />
+      <node id="jokowi" label="jokowi" />
+      <node id="MardaniAliSera" label="MardaniAliSera" />
+      <node id="JapenPerlis" label="JapenPerlis" />
+      <node id="JaPenWPKL" label="JaPenWPKL" />
+      <node id="res_lantas" label="res_lantas" />
+      <node id="mbahndi" label="mbahndi" />
+      <node id="JapenTerengganu" label="JapenTerengganu" />
+      <node id="JapenBBaharu" label="JapenBBaharu" />
+      <node id="Humas_ResPBG" label="Humas_ResPBG" />
+      <node id="Pemkab_Kudus" label="Pemkab_Kudus" />
+      <node id="segi3pascal" label="segi3pascal" />
+      <node id="MKNJPM" label="MKNJPM" />
+      <node id="Marchfoward" label="Marchfoward" />
+      <node id="DivHumas_Polri" label="DivHumas_Polri" />
+      <node id="ALMI_Indonesia" label="ALMI_Indonesia" />
+      <node id="poldajateng_" label="poldajateng_" />
+      <node id="_Ratu1234" label="_Ratu1234" />
+    </nodes>
+    <edges>
+      <edge source="AnotherAznTart" target="KKMPutrajaya" id="0" />
+      <edge source="RDYSPTR" target="Puthutea" id="1" />
+      <edge source="Cr07fans1" target="abu_waras" id="2" />
+      <edge source="RahmanR33500117" target="djplkemenhub151" id="3" />
+      <edge source="RahmanR33500117" target="KuppWanci" id="4" />
+      <edge source="ftnhhshm" target="KKMPutrajaya" id="5" />
+      <edge source="VIVAcoid" target="CeritaAnda_" id="6" />
+      <edge source="VIVAcoid" target="VIVAlife_" id="7" />
+      <edge source="rosywana" target="KKMPutrajaya" id="8" />
+      <edge source="irulree" target="DGHisham" id="9" />
+      <edge source="miyomi19" target="Pencerah__" id="10" />
+      <edge source="SivFreak" target="theghrack" id="11" />
+      <edge source="DonAlfauzi" target="muhammadiyah" id="12" />
+      <edge source="Lleragonzalez" target="cmdtegnralAMB" id="13" />
+      <edge source="AiedaAzam" target="KKMPutrajaya" id="14" />
+      <edge source="Ketepi_Ketepi" target="KKMPutrajaya" id="15" />
+      <edge source="_adibothman" target="KKMPutrajaya" id="16" />
+      <edge source="FaizRoseli" target="_thejakpar" id="17" />
+      <edge source="_adilayusof" target="KKMPutrajaya" id="18" />
+      <edge source="fazvader" target="KKMPutrajaya" id="19" />
+      <edge source="gadih_orkid" target="KKMPutrajaya" id="20" />
+      <edge source="langityang7" target="Separoh_Kumis" id="21" />
+      <edge source="FadhliRudi" target="Pencerah__" id="22" />
+      <edge source="pmrkeningau" target="pmrkeningau" id="23" />
+      <edge source="HamizahAziz_" target="KKMPutrajaya" id="24" />
+      <edge source="_nraziann" target="KKMPutrajaya" id="25" />
+      <edge source="sitiawe_" target="KKMPutrajaya" id="26" />
+      <edge source="FFaesyal" target="DrAdhamBaba" id="27" />
+      <edge source="FFaesyal" target="JPenerangan" id="28" />
+      <edge source="FFaesyal" target="JKJAVMY" id="29" />
+      <edge source="FFaesyal" target="kkmm_gov" id="30" />
+      <edge source="AZHARFRS" target="katzen_jammer" id="31" />
+      <edge source="RaydoDeagustama" target="firdzaradiany" id="32" />
+      <edge source="syifa_1104" target="KKMPutrajaya" id="33" />
+      <edge source="Norsarihan" target="DGHisham" id="34" />
+      <edge source="aizadhamzah" target="KKMPutrajaya" id="35" />
+      <edge source="Jchris_68" target="DGHisham" id="36" />
+      <edge source="Jchris_68" target="JapenSarawak" id="37" />
+      <edge source="Jchris_68" target="KKMPutrajaya" id="38" />
+      <edge source="izzrosellee" target="jbrullhhhh" id="39" />
+      <edge source="syaf_meung" target="KKMPutrajaya" id="40" />
+      <edge source="hajarrulnisha" target="KKMPutrajaya" id="41" />
+      <edge source="faizmahmod" target="KKMPutrajaya" id="42" />
+      <edge source="AbyJamil" target="KKMPutrajaya" id="43" />
+      <edge source="Azril_Hosaini" target="KKMPutrajaya" id="44" />
+      <edge source="rebitdebab" target="theghrack" id="45" />
+      <edge source="iddxyxh" target="theghrack" id="46" />
+      <edge source="fitrahjafri" target="KKMPutrajaya" id="47" />
+      <edge source="doso_werdiadi" target="UCIKINI" id="48" />
+      <edge source="kimiimiar" target="KKMPutrajaya" id="49" />
+      <edge source="PapaQQs" target="KKMPutrajaya" id="50" />
+      <edge source="ArinaaZam" target="KKMPutrajaya" id="51" />
+      <edge source="subr33nvh" target="KKMPutrajaya" id="52" />
+      <edge source="ainkhairul" target="KKMPutrajaya" id="53" />
+      <edge source="MellyLiawati" target="KakekHalal" id="54" />
+      <edge source="itsmeadlhshrh" target="KKMPutrajaya" id="55" />
+      <edge source="purirohermawan" target="kompascom" id="56" />
+      <edge source="munasyifaaziza" target="dgipul" id="57" />
+      <edge source="AdiNugroho231tw" target="abu_waras" id="58" />
+      <edge source="nuoraein" target="KKMPutrajaya" id="59" />
+      <edge source="HanyangHabbang" target="_thejakpar" id="60" />
+      <edge source="habibullah_AHA" target="KKMPutrajaya" id="61" />
+      <edge source="Guse43935882" target="hnurwahid" id="62" />
+      <edge source="haziqProperty" target="KKMPutrajaya" id="63" />
+      <edge source="ki_engi" target="DGHisham" id="64" />
+      <edge source="qutershipper" target="KKMPutrajaya" id="65" />
+      <edge source="HakimBahrin" target="KKMPutrajaya" id="66" />
+      <edge source="riauaktual" target="medianaFS" id="67" />
+      <edge source="AmatTTJ" target="KKMPutrajaya" id="68" />
+      <edge source="BIner_GBK" target="ichaasrm" id="69" />
+      <edge source="marifd95" target="DGHisham" id="70" />
+      <edge source="aiman_amarth" target="KKMPutrajaya" id="71" />
+      <edge source="vouzmeyouz7" target="KKMPutrajaya" id="72" />
+      <edge source="adobubble" target="KKMPutrajaya" id="73" />
+      <edge source="eneffeff" target="KKMPutrajaya" id="74" />
+      <edge source="saisyah_nar" target="KKMPutrajaya" id="75" />
+      <edge source="mistaaimanvevo" target="KKMPutrajaya" id="76" />
+      <edge source="tampan_selalu_" target="ichaasrm" id="77" />
+      <edge source="hyungwati" target="zwolftenaugust" id="78" />
+      <edge source="99star_micchye" target="KKMPutrajaya" id="79" />
+      <edge source="Fazreensya" target="KKMPutrajaya" id="80" />
+      <edge source="luqmankamal__" target="KKMPutrajaya" id="81" />
+      <edge source="nazihahhh" target="KKMPutrajaya" id="82" />
+      <edge source="relapahang" target="KKMPutrajaya" id="83" />
+      <edge source="_hasrul" target="KKMPutrajaya" id="84" />
+      <edge source="asmaqrazak" target="KKMPutrajaya" id="85" />
+      <edge source="dalgigongju" target="zwolftenaugust" id="86" />
+      <edge source="AmalTakaza" target="KKMPutrajaya" id="87" />
+      <edge source="rahah_ghazali" target="KKMPutrajaya" id="88" />
+      <edge source="ceriachannel_8" target="BatikRiwa" id="89" />
+      <edge source="Ahmad_KanekiKen" target="KKMPutrajaya" id="90" />
+      <edge source="Ahmad_KanekiKen" target="DGHisham" id="91" />
+      <edge source="rozali53" target="DGHisham" id="92" />
+      <edge source="nrshyni" target="KKMPutrajaya" id="93" />
+      <edge source="omiikochii" target="kikysaputrii" id="94" />
+      <edge source="_Idzham_" target="KKMPutrajaya" id="95" />
+      <edge source="muhammad__adib" target="KKMPutrajaya" id="96" />
+      <edge source="tbgsem" target="DGHisham" id="97" />
+      <edge source="tbgsem" target="KKMPutrajaya" id="98" />
+      <edge source="fery_krisnanto" target="fjims" id="99" />
+      <edge source="aintaj" target="KKMPutrajaya" id="100" />
+      <edge source="Super_Abez" target="KKMPutrajaya" id="101" />
+      <edge source="Mrdodot" target="KKMPutrajaya" id="102" />
+      <edge source="taufekJr" target="theghrack" id="103" />
+      <edge source="ppastelkims" target="zwolftenaugust" id="104" />
+      <edge source="MohamadFaridIz2" target="JapenSarawak" id="105" />
+      <edge source="RECOVERADIO" target="FitRadioBandung" id="106" />
+      <edge source="hxmozx" target="501Awani" id="107" />
+      <edge source="ArfianWan" target="dr_koko28" id="108" />
+      <edge source="UsmanKhoma" target="tonaytoni" id="109" />
+      <edge source="ajiipurnomo" target="zwolftenaugust" id="110" />
+      <edge source="AngrySipelebegu" target="kompascom" id="111" />
+      <edge source="DeeBoy5" target="Iamrahulkanal" id="112" />
+      <edge source="infoUBSI" target="KuliahBSIAja" id="113" />
+      <edge source="IlmuanAkhirat" target="hmetromy" id="114" />
+      <edge source="Kampus_UBSI" target="KuliahBSIAja" id="115" />
+      <edge source="JapenKedah" target="JPenerangan" id="116" />
+      <edge source="Widiatis279" target="Pencerah__" id="117" />
+      <edge source="kakekpembina" target="dayatia" id="118" />
+      <edge source="RustamDP" target="Pemudamuslimin" id="119" />
+      <edge source="MyHEALTHKKM" target="DGHisham" id="120" />
+      <edge source="gatawbodo" target="zwolftenaugust" id="121" />
+      <edge source="mirazh_me" target="fjims" id="122" />
+      <edge source="NurulJannahAnu2" target="JPenerangan" id="123" />
+      <edge source="dannex21" target="Panglima_Minal" id="124" />
+      <edge source="AmirahAyub" target="DGHisham" id="125" />
+      <edge source="acidween" target="IBCIG" id="126" />
+      <edge source="ekjozbuluh" target="DGHisham" id="127" />
+      <edge source="laga_joseph" target="JapenSarawak" id="128" />
+      <edge source="laga_joseph" target="JPenerangan" id="129" />
+      <edge source="laga_joseph" target="kkmm_gov" id="130" />
+      <edge source="Iipoenk" target="dr_koko28" id="131" />
+      <edge source="IzureenAnisa" target="theghrack" id="132" />
+      <edge source="Makpin4" target="jokowi" id="133" />
+      <edge source="MegaPuspa26" target="MegaPuspa26" id="134" />
+      <edge source="RazaliHamizan" target="JPenerangan" id="135" />
+      <edge source="SabanaInsan" target="MardaniAliSera" id="136" />
+      <edge source="TugangG" target="JapenPerlis" id="137" />
+      <edge source="lyra_fara" target="JPenerangan" id="138" />
+      <edge source="lyra_fara" target="JaPenWPKL" id="139" />
+      <edge source="lyra_fara" target="kkmm_gov" id="140" />
+      <edge source="lyra_fara" target="KKMPutrajaya" id="141" />
+      <edge source="Jasson53544364" target="Pencerah__" id="142" />
+      <edge source="AlvianKahfi" target="res_lantas" id="143" />
+      <edge source="nichauaena" target="theghrack" id="144" />
+      <edge source="seemanjo" target="Pencerah__" id="145" />
+      <edge source="wawaggmu" target="DGHisham" id="146" />
+      <edge source="awsilence" target="zwolftenaugust" id="147" />
+      <edge source="ghastpiracy" target="mbahndi" id="148" />
+      <edge source="KampusUbsi" target="KuliahBSIAja" id="149" />
+      <edge source="syamiraimann" target="_thejakpar" id="150" />
+      <edge source="Branta_Sena77" target="kompascom" id="151" />
+      <edge source="JPZullOthman" target="JPenerangan" id="152" />
+      <edge source="JPZullOthman" target="JapenTerengganu" id="153" />
+      <edge source="syasyaazulaikha" target="DGHisham" id="154" />
+      <edge source="AjimanKaro" target="JapenBBaharu" id="155" />
+      <edge source="mangiii" target="kikysaputrii" id="156" />
+      <edge source="bonobtha" target="Iamrahulkanal" id="157" />
+      <edge source="ain_yusra" target="DGHisham" id="158" />
+      <edge source="aunty_Lalaaaaa" target="DGHisham" id="159" />
+      <edge source="faiqsapii" target="theghrack" id="160" />
+      <edge source="HKaligondang" target="Humas_ResPBG" id="161" />
+      <edge source="_abdullahazam" target="501Awani" id="162" />
+      <edge source="tun_jubei" target="DGHisham" id="163" />
+      <edge source="ParamesPolaris" target="JPenerangan" id="164" />
+      <edge source="ParamesPolaris" target="JaPenWPKL" id="165" />
+      <edge source="ParamesPolaris" target="kkmm_gov" id="166" />
+      <edge source="ParamesPolaris" target="KKMPutrajaya" id="167" />
+      <edge source="FerryNLangelo" target="KakekHalal" id="168" />
+      <edge source="yazid_nazri" target="DGHisham" id="169" />
+      <edge source="IDRIS95026563" target="JapenSarawak" id="170" />
+      <edge source="kfirdaus97" target="theghrack" id="171" />
+      <edge source="kfirdaus97" target="501Awani" id="172" />
+      <edge source="YB_Akob" target="DGHisham" id="173" />
+      <edge source="ginaa_lestari" target="dr_koko28" id="174" />
+      <edge source="pidutDin" target="501Awani" id="175" />
+      <edge source="atiqah_azmira" target="theghrack" id="176" />
+      <edge source="RosmAzyYati" target="DGHisham" id="177" />
+      <edge source="zaynalfahmi" target="Pemkab_Kudus" id="178" />
+      <edge source="McNoc_Jeli" target="JPenerangan" id="179" />
+      <edge source="McNoc_Jeli" target="kkmm_gov" id="180" />
+      <edge source="enamcent" target="JPenerangan" id="181" />
+      <edge source="Supriya72540457" target="muhammadiyah" id="182" />
+      <edge source="mimams_" target="jokowi" id="183" />
+      <edge source="bukatejapolsek2" target="Humas_ResPBG" id="184" />
+      <edge source="Amighuding" target="theghrack" id="185" />
+      <edge source="mas_soll" target="dgipul" id="186" />
+      <edge source="nadyakhrnzz" target="segi3pascal" id="187" />
+      <edge source="Mrx_Lonely" target="DGHisham" id="188" />
+      <edge source="astaghosh" target="firdzaradiany" id="189" />
+      <edge source="nurulsapiq" target="theghrack" id="190" />
+      <edge source="KelingMenua8" target="MKNJPM" id="191" />
+      <edge source="KelingMenua8" target="KKMPutrajaya" id="192" />
+      <edge source="KelingMenua8" target="kkmm_gov" id="193" />
+      <edge source="KelingMenua8" target="JPenerangan" id="194" />
+      <edge source="aril2995" target="DGHisham" id="195" />
+      <edge source="ashikynnn_" target="DGHisham" id="196" />
+      <edge source="thea_effendy" target="kikysaputrii" id="197" />
+      <edge source="kireiharunohana" target="firdzaradiany" id="198" />
+      <edge source="iamsyeikh" target="Marchfoward" id="199" />
+      <edge source="Cahyadi_refa" target="dr_koko28" id="200" />
+      <edge source="zulfikar_husein" target="Puthutea" id="201" />
+      <edge source="zulfikar_husein" target="firdzaradiany" id="202" />
+      <edge source="tomitexas" target="Pencerah__" id="203" />
+      <edge source="diplomatfatui" target="kikysaputrii" id="204" />
+      <edge source="DhiaDemmy" target="abu_waras" id="205" />
+      <edge source="EnalNkri" target="DivHumas_Polri" id="206" />
+      <edge source="gwywoo" target="zwolftenaugust" id="207" />
+      <edge source="dirmanrdl" target="Pencerah__" id="208" />
+      <edge source="djerrymoused39" target="Pencerah__" id="209" />
+      <edge source="RMaulanal" target="kikysaputrii" id="210" />
+      <edge source="Malini2020" target="ALMI_Indonesia" id="211" />
+      <edge source="HeriSuwondo2" target="dr_koko28" id="212" />
+      <edge source="AzriGagor" target="_thejakpar" id="213" />
+      <edge source="_noorayu_" target="theghrack" id="214" />
+      <edge source="amiranatashasss" target="jbrullhhhh" id="215" />
+      <edge source="Wahyuni48070085" target="kikysaputrii" id="216" />
+      <edge source="IWar69" target="jokowi" id="217" />
+      <edge source="amirah_nafissa" target="_thejakpar" id="218" />
+      <edge source="KudusSatbinmas" target="poldajateng_" id="219" />
+      <edge source="emille1111" target="abu_waras" id="220" />
+      <edge source="_Fifi1234" target="_Ratu1234" id="221" />
+      <edge source="kianinara3" target="tonaytoni" id="222" />
+      <edge source="mumyfd" target="JPenerangan" id="223" />
+      <edge source="LeonelPjanic" target="Iamrahulkanal" id="224" />
+      <edge source="JackPenak" target="DivHumas_Polri" id="225" />
+      <edge source="redywanjames" target="jokowi" id="226" />
+      <edge source="rieeennnnn" target="theghrack" id="227" />
+      <edge source="tonky_tonky" target="Puthutea" id="228" />
+      <edge source="akmalhjsaftu" target="theghrack" id="229" />
+      <edge source="jamal_bawean" target="dr_koko28" id="230" />
+      <edge source="santuyparuy09" target="segi3pascal" id="231" />
+    </edges>
+  </graph>
+</gexf>
